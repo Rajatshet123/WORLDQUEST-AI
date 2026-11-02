@@ -1,3 +1,4 @@
+
 # WORLDQUEST AI
 
 A persistent community driven fantasy world for Twitch streams. React/Vite powers the creator dashboard and OBS overlay; FastAPI, SQLite and WebSockets power world state and chat commands.
@@ -56,3 +57,7 @@ Set `OPENAI_API_KEY` in the backend `.env`. The `/api/story` endpoint sends a co
 - `WS /ws` (state snapshots and live update events)
 
 No deployment is configured.
+
+# WORLDQUEST-AI
+AI-powered persistent multiplayer fantasy world controlled by Twitch chat.
+
